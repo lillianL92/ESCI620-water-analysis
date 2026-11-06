@@ -1,6 +1,6 @@
 # ESCI620-water-analysis
 Water quality data
-# Chesapeake Bay Water Quality Analysis
+#Water Quality Analysis
 
 ## Project Description
 
